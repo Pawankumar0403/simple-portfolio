@@ -1,5 +1,7 @@
-#Portfolio Website
-Welcome to my portfolio website! This project is a simple, static website built using basic HTML and CSS. It serves as a personal portfolio to showcase my work and provide a means for visitors to contact me.
+Portfolio Website
+
+Welcome to my portfolio website!
+This project is a simple, static website built using basic HTML and CSS. It serves as a personal portfolio to showcase my work and provide a means for visitors to contact me.
 
 Features
 Home Page: The landing page of the website featuring an introduction and overview of my work.
