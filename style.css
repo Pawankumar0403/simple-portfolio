@@ -1,0 +1,141 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: Nunito;
+    background-image: url(1.jpg) ;
+    background-size: cover;  
+}
+
+.container{
+    padding: 15px;
+}
+
+.title{
+    background-color: plum;
+    padding: 20px;
+    color: black;
+    border-radius: 10px;
+}
+
+.title__contact{
+    background-color: brown;
+    color: rgb(209, 124, 209);
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    display: inline-block;
+    border-radius: 25px;
+}
+
+.title__name{
+    font-size: 55px;
+}
+
+.title__role{
+    font-size: 25px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.about,.interest,.project,.additional,.footer{
+    margin-top: 20px;
+}
+
+
+.about__desc,.interest__desc,.project__desc,.additional__desc,.footer__desc{
+    margin-top: 10px;
+}
+
+.footer{
+    background-color: cadetblue;
+    color: white;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.footer__social a{
+    color: rgb(7, 7, 142);
+}
+
+.interest__desc li,.project__desc li,.additional__desc li{
+    list-style: none;
+}
+
+.interest{
+    background-color: rgb(209, 90, 114);
+    color: white;
+    border-radius: 25px;
+    padding: 20px;
+    display: inline-block;
+    height: 200px;
+    vertical-align: top;
+}
+
+.project{
+    background-color: rgb(88, 131, 210);
+    color: white;
+    border-radius: 25px;
+    padding: 20px;
+    height: 200px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.additional{
+    background-color: hotpink;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+
+.title__home{
+    background-color: brown;
+    text-decoration: none;
+    color: rgb(209, 124, 209);
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    display: inline-block;
+    border-radius: 25px;
+}
+
+.contact{
+    margin-top: 30px;
+}
+
+.contact__name,.contact__email,.contact__message,.contact__submit{
+    margin-top: 10px;
+
+}
+
+.contact__name,.contact__email{
+    padding: 10px;
+    border: none;
+    border-bottom: solid black 1px;
+}
+
+.contact__message{
+    border: none;
+    border: solid black 1px;
+    padding: 10px;
+}
+
+.contact__submit{
+    padding: 10px 20px 10px 20px;
+    border: none;
+    background-color: brown;
+    color: rgb(209, 124, 209);
+}
+
+
+
+
+
+
+
